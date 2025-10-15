@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="aspireGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1DA1F2"/>
+      <stop offset="100%" stop-color="#0D47A1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="url(#aspireGradient)" stroke="#ffffff" stroke-width="4"/>
+  <path d="M60 28l20 64h-8l-4.4-14h-15.2L48 92h-8z" fill="#ffffff"/>
+  <path d="M60 46l-5 16h10z" fill="#0D47A1" opacity="0.2"/>
+</svg>

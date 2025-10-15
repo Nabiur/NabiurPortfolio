@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8A00"/>
+      <stop offset="100%" stop-color="#FF3E00"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="url(#grad)" stroke="#ffffff" stroke-width="4"/>
+  <g fill="#ffffff" font-family="Poppins, Arial, sans-serif" font-weight="600" text-anchor="middle">
+    <text x="60" y="70" font-size="42">IL</text>
+  </g>
+</svg>
