@@ -1,5 +1,7 @@
 # NabiurPortfolio
 
+![Website](https://img.shields.io/badge/Type-Portfolio%20Website-1F6FEB) ![Frontend](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-E34F26) ![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages-121013?logo=github&logoColor=white)
+
 ## Overview
 This repository contains the source code for Nabiur's personal portfolio website. The site presents profile information, skills, featured projects, resume highlights, and contact details with a clean multi-page layout.
 
